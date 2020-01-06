@@ -1,8 +1,8 @@
 pan_tadeusz = ""  # do pobrania z projektu Gutenberg
 
 # Zadanie 1
-# Napisz funkcję power, która dla danego n i p zwraca w wyniku n podniesione do
-# potęgi p.
+# Napisz funkcję power, która dla danego n i p zwraca w wyniku n 
+# podniesione do potęgi p.
 # Domyślna wartość argumentu p to 3.
 # Niech n i p będą liczbami całkowitymi >= 0.
 def power(n, p=3):
@@ -29,7 +29,7 @@ def fold(a=None, b=None):
 # to występujący wyraz a wartścią jest liczba wystąpień tego wyrazu.
 
 # Do tego zadania brak testów w pliku źródłowym, są przedstawione różne 
-# rozwiązania [~Krzysiek].
+# rozwiązania - optymalne i nadesłane przez studentów [~Krzysztofor].
 def word_frequency(text=None):
     pass
 

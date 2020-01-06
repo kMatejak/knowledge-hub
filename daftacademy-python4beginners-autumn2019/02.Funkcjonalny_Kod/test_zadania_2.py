@@ -2,7 +2,7 @@ import unittest
 import zadania_2 as z
 
 
-class TestZadania1(unittest.TestCase):
+class TestZadania2(unittest.TestCase):
 
 	@staticmethod
 	def test_power():
