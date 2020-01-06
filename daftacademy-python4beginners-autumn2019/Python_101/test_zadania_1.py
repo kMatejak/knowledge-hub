@@ -18,7 +18,7 @@ class TestZadania1(unittest.TestCase):
         z1 = z.zadanie_1()
         assert type(z1) is list, "result is not a list"
         assert len(z1) == 1000, "result list is too small"
-        assert z1[11 * 5 * 7 * 2] == "🐕🐕❤️🐍🐍"
+        assert z1[11 * 5 * 7 * 2] == "🐕❤️🐍"
 
     @staticmethod
     def test_zadanie_2():
