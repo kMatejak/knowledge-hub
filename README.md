@@ -1,5 +1,7 @@
 # Knowledge Hub
 
+## [Wiki](https://github.com/kMatejak/knowledge-hub/wiki)
+
 ## Python
 
 ### Daftacademy 
