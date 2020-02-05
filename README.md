@@ -11,5 +11,5 @@
 
 ## [Wiki](https://github.com/kMatejak/knowledge-hub/wiki)  
 [Code formatter with pre-commit for Python](https://github.com/kMatejak/knowledge-hub/wiki/Code-formatter-with-precommit-for-Python)  
-[README, How To Do](https://github.com/kMatejak/knowledge-hub/wiki/README,-How-To-Do)  
+[README How To Do](https://github.com/kMatejak/knowledge-hub/wiki/README-How-To-Do)  
 [Make Python file executable](https://github.com/kMatejak/knowledge-hub/wiki/Make-Python-file-executable)
